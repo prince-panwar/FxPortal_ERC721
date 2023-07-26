@@ -1,0 +1,14 @@
+{
+    "name": "Young Woman in Red Dress",
+    "description": "A young woman in a red dress with very long blonde hair, surrounded by colorful flowers",
+    "image": "ipfs://QmQjTYn6i8hxmBCuNJUbgaLSDV4tgvWifPf1dW2UTFCgm6/NFT_1.png", 
+    "atmosphere": "Romantic and elegant",
+    "style": "John William Waterhouse",
+    "attributes": {
+      "hair": "Blonde",
+      "dress_color": "Red",
+      "flowers": "Colorful"
+    },
+    "token_id": 1 
+  }
+  

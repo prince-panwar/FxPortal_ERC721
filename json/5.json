@@ -1,0 +1,14 @@
+{
+    "name": "Fantasy City Ninjas",
+    "description": "Ninjas in different colors in a fantasy city background. The artwork is hyper-realistic and in 4K resolution.",
+    "image": "ipfs://QmQjTYn6i8hxmBCuNJUbgaLSDV4tgvWifPf1dW2UTFCgm6/NFT_5.png", 
+    "atmosphere": "Fantastical and action-packed",
+    "style": "Hyper-realistic",
+    "attributes": {
+      "characters": "Ninjas",
+      "setting": "Fantasy City",
+      "resolution": "4K"
+    },
+    
+    "token_id": 5
+  }

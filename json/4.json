@@ -1,0 +1,14 @@
+{
+    "name": "Steam Train Stop at Midnight",
+    "description": "A vintage steam train stops at the station in a 1890s town. The atmosphere is midnight, and a middle-aged man is waiting.",
+    "image": "ipfs://QmQjTYn6i8hxmBCuNJUbgaLSDV4tgvWifPf1dW2UTFCgm6/NFT_4.png", 
+    "atmosphere": "Mysterious and nostalgic",
+    "style": "Digital game art",
+    "attributes": {
+      "location": "1890s Town",
+      "time": "Midnight",
+      "characters": ["Steam Train", "Middle-aged man"]
+    },
+    "token_id": 4
+
+  }

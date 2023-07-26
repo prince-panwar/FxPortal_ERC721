@@ -1,0 +1,13 @@
+{
+    "name": "Tropical Rainforest River",
+    "description": "An abandoned steamboat covered by vegetation in a tropical rainforest river. The atmosphere is pink, yellow, and orange, resembling 8 am.",
+    "image": "ipfs://QmQjTYn6i8hxmBCuNJUbgaLSDV4tgvWifPf1dW2UTFCgm6/NFT_3.png", 
+    "atmosphere": "Tropical and serene",
+    "style": "Digital game art",
+    "attributes": {
+      "location": "Rainforest River",
+      "time": "8 am",
+      "colors": ["Pink", "Yellow", "Orange"]
+    },
+    "token_id": 3 
+}
